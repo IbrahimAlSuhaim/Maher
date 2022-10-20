@@ -34,7 +34,7 @@
     "react-native-image-picker": "^2.3.1",
     "react-native-keyboard-aware-scrollview": "^2.1.0",
     "react-native-modal-datetime-picker": "^8.5.4",
-    "react-native-reanimated": "~1.4.0",
+    "react-native-reanimated": "~2.10.0",
     "react-native-restart": "0.0.14",
     "react-native-safe-area-context": "0.6.0",
     "react-native-screens": "2.0.0-alpha.12",
